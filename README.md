@@ -1,70 +1,55 @@
-Trusted Animated Blocks Widget for Elementor
+# Trusted Animated Blocks Widget for Elementor
 
-Version: 1.0
-Author: [Your Name / Company]
-Requires: Elementor Free or Pro
+**Version:** 1.0  
+**Requires:** Elementor Free or Pro  
 
-Description
+## Description
 
-The Trusted Animated Blocks widget adds visually appealing, animated content blocks to your Elementor pages. With full customization options, you can easily display content in an engaging way, highlight your features, or showcase key information dynamically.
+The **Trusted Animated Blocks** widget adds visually appealing, animated content blocks to your Elementor pages. With full customization options, you can easily display content in an engaging way, highlight your features, or showcase key information dynamically.  
 
-This widget allows you to:
+This widget allows you to:  
 
-Display animated content blocks.
+- Display animated content blocks.  
+- Customize text content, titles, and subtitles.  
+- Choose background and text colors.  
+- Adjust animations and display style.  
+- Optionally enable/disable individual blocks.  
 
-Customize text content, titles, and subtitles.
+It’s perfect for landing pages, portfolios, service showcases, and any section where you want to grab attention with animated content.  
 
-Choose background and text colors.
+## Features
 
-Adjust animations and display style.
+- Fully **responsive** – works on desktop, tablet, and mobile.  
+- **Customizable colors** for backgrounds, texts, and accents.  
+- **Multiple content blocks** – add, remove, and reorder blocks.  
+- **Animation effects** – fade, slide, and more (configurable per block).  
+- **Optional display settings** – show or hide blocks as needed.  
 
-Optionally enable/disable individual blocks.
+## Installation
 
-It’s perfect for landing pages, portfolios, service showcases, and any section where you want to grab attention with animated content.
+1. Upload the plugin folder to your `/wp-content/plugins/` directory.  
+2. Activate the plugin through the WordPress **Plugins** menu.  
+3. Go to **Elementor Editor** → search for **Trusted Animated Blocks** → drag and drop into your page.  
 
-Features
+## Usage
 
-Fully responsive – works on desktop, tablet, and mobile.
+1. Add the widget to your Elementor page.  
+2. Click on the widget to open **Content** settings.  
+3. Add your blocks with titles, content, and links.  
+4. Customize colors and animation styles under **Style** settings.  
+5. Save and preview your page.  
 
-Customizable colors for backgrounds, texts, and accents.
+## FAQ
 
-Multiple content blocks – add, remove, and reorder blocks.
+**Q:** Can I use multiple widgets on the same page?  
+**A:** Yes, each widget instance works independently.  
 
-Animation effects – fade, slide, and more (configurable per block).
+**Q:** Are animations compatible with all browsers?  
+**A:** The widget uses CSS animations, supported by modern browsers (Chrome, Firefox, Safari, Edge).  
 
-Optional display settings – show or hide blocks as needed.
+**Q:** Can I add links or buttons to the blocks?  
+**A:** Yes, each block allows you to add links and optionally a button.  
 
-Installation
+## Changelog
 
-Upload the plugin folder to your /wp-content/plugins/ directory.
-
-Activate the plugin through the WordPress Plugins menu.
-
-Go to Elementor Editor → search for Trusted Animated Blocks → drag and drop into your page.
-
-Usage
-
-Add the widget to your Elementor page.
-
-Click on the widget to open Content settings.
-
-Add your blocks with titles, content, and links.
-
-Customize colors and animation styles under Style settings.
-
-Save and preview your page.
-
-FAQ
-
-Q: Can I use multiple widgets on the same page?
-A: Yes, each widget instance works independently.
-
-Q: Are animations compatible with all browsers?
-A: The widget uses CSS animations, supported by modern browsers (Chrome, Firefox, Safari, Edge).
-
-Q: Can I add links or buttons to the blocks?
-A: Yes, each block allows you to add links and optionally a button.
-
-Changelog
-
-1.0 – Initial release
+**1.0** – Initial release
