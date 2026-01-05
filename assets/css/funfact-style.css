@@ -1,0 +1,38 @@
+.funfact-wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 32px;
+    justify-content: center;
+}
+.funfact-item {
+    text-align: center;
+    flex: 1 1 calc(25% - 32px);
+    min-width: 220px;
+}
+
+.funfact-box {
+    padding: 48px 32px;
+    border-radius: 20px;
+    background: #f3f6ff;
+}
+
+.funfact-number-wrap {
+    display: inline-flex;
+    align-items: flex-start;
+    justify-content: center;
+    margin-bottom: 16px;
+}
+
+.funfact-number,
+.funfact-suffix {
+    font-size: 64px;
+    font-weight: 700;
+    line-height: 1;
+}
+
+.funfact-text {
+    font-size: 18px;
+    line-height: 1.5;
+    max-width: 260px;
+    margin: 0 auto;
+}
