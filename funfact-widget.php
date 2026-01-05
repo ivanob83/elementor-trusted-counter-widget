@@ -4,7 +4,7 @@
  * Plugin Name: Funfact / Trusted Counters Widget
  * Description: Elementor widget for funfact / trusted counters with animation.
  * Version: 1.0
- * Author: Your Name
+ * Author: Ivan Obradovic
  */
 
 if (! defined('ABSPATH')) exit;
